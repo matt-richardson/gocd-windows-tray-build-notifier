@@ -84,7 +84,7 @@ namespace go_cd_windows_tray_build_notifier
 
 
                 var json = @"{
-    ""pipeline-name"": ""AppPackager_Development"",
+    ""pipeline-name"": ""Application_With_Long_Name"",
     ""pipeline-counter"": ""7.0.355"",
     ""stage-name"": ""Build.UnitTest.IntegrationTest"",
     ""stage-counter"": ""1"",
